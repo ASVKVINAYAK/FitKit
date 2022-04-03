@@ -3,6 +3,10 @@ Hello Developers👋,
 Have great interest in the domain of Android Development and looking for a project to work upon? You can start by contributing to FitKit app, a project to provide basic information regarding fitness, like shows excersise videos, shows yoga videos.
 Provides BMI Calculator, necessary health diet tips and many more.
 
+###Login Page details
+Email: user@gmail.com
+Password: user123
+
 ### ⭕⭕Tech stack guides:
 ###### ✔Basics Flutter
 ###### ✔Basics of development using Android Studio [Android Studio Documentation](https://developer.android.com/docs) or [VS Code](https://code.visualstudio.com/)
